@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Figures</title>
+</head>
+<body>
+    <form id="figures-form">
+        <label for="new-name">Name</label>><input type="text" id="new-name">
+        <label for="new-birth">Birth Date</label><input type="text" id="new-birth">
+        <label for="new-death">Death Date</label><input type="text" id="new-death">
+        <label for="new-field">Field</label><input type="text" id="new-field">
+        <button type="submit" onclick="createFigure()">Add</button>
+    </form>
+    <button onclick="printFigures()">Upload Info</button>
+    <button onclick="postFigures()">+</button>
+    <section id="figures-list">
+
+    </section>
+    <script src="/src/historical-figures.js"></script>
+</body>
+</html>
