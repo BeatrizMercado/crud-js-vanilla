@@ -1,32 +1,39 @@
 {
-    "historical-figures": [
-        {
-            "id": "1",
-            "name": "Albert Einstein",
-            "birth": "Mar 14, 1879",
-            "death": "Apr 18, 1955",
-            "field": "Physics"
-        },
-        {
-            "id": "2",
-            "name": "William Shakespeare",
-            "birth": "Apr, 1564",
-            "death": "Apr 23, 1616",
-            "field": "Playwright"
-        },
-        {
-            "id": "3",
-            "name": "Wolfgang Amadeus Mozart",
-            "birth": "Jan 27, 1756",
-            "death": "Dec 5, 1791",
-            "field": "Music"
-        },
-        {
-            "id": "4",
-            "name": "Leonardo da Vinci",
-            "birth": "Apr 15, 1452",
-            "death": "May 2, 1519",
-            "field": "Polymath"
-        }
-    ]
+  "historical-figures": [
+    {
+      "id": "1",
+      "name": "Albert Einstein",
+      "birth": "Mar 14, 1879",
+      "death": "Apr 18, 1955",
+      "field": "Physics"
+    },
+    {
+      "id": "2",
+      "name": "William Shakespeare",
+      "birth": "Apr, 1564",
+      "death": "Apr 23, 1616",
+      "field": "Playwright"
+    },
+    {
+      "id": "3",
+      "name": "Wolfgang Amadeus Mozart",
+      "birth": "Jan 27, 1756",
+      "death": "Dec 5, 1791",
+      "field": "Music"
+    },
+    {
+      "id": "4",
+      "name": "Leonardo da Vinci",
+      "birth": "Apr 15, 1452",
+      "death": "May 2, 1519",
+      "field": "Polymath"
+    },
+    {
+      "id": "02a5",
+      "name": "Charles Darwin",
+      "birth": "Feb 12, 1809",
+      "death": "Apr 19, 1882",
+      "field": "Naturalist"
+    }
+  ]
 }
